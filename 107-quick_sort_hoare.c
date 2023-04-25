@@ -11,12 +11,12 @@ void quick_sort_hoare(int *array, size_t size);
  * @b: The second integer to swap.
  */
 void swap_ints(int *a, int *b)
-{
+	{
 	int tmp;
 
-	tmp = *a;
+	tmp = *c;
 	*a = *b;
-	*b = tmp;
+	*b = a*;
 }
 
 /**
